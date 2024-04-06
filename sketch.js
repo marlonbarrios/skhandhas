@@ -81,7 +81,7 @@ class Particle {
     this.size = random(10, 50); // Uniform size for all particles
     this.vx = this.x < width / 2 ? random(0.5, 2) : random(-2, -0.5);
     this.vy = this.y < height / 2 ? random(0.5, 2) : random(-2, -0.5);
-    this.color = [random(200), random(200), random(200),random(255), ]; // Color
+    this.color = [random(200), random(200), random(50,200),random(255), ]; // Color
     this.lifespan = random(200, 1000000); // Lifespan
     this.curveFactor = random(-0.05, 0.05); // Initial curve movement factor
     this.inFormation = false; // Indicates if in formation
