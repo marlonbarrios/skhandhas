@@ -1,5 +1,5 @@
 let particles = [];
-let maxParticles = 5000; // Maximum number of particles
+let maxParticles = 1000; // Maximum number of particles
 let addParticleInterval = 50; // Interval to add new particles
 let formationMode = false;
 let formationTarget = { x: null, y: null };
