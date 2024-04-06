@@ -1,4 +1,5 @@
 # Skhandhas
+![Screenshot 2024-04-06 at 4 06 33 PM](https://github.com/marlonbarrios/skhandhas/assets/90220317/379640a3-c069-4bb6-af3f-984bc4ffe1d1)
 
 ## Concept
 "Skhandhas" is an immersive generative art experience inspired by the profound Buddhist concept of the **Five Aggregates** or **Skandha**. In Sanskrit, _Skandha_ (स्कन्ध) translates to "multitude, quantity, aggregate," and is a term deeply embedded in the discourse around consciousness, form, sensation, perception, mental formations, and discernment. This project seeks to visualize the transient and interconnected nature of existence through dynamic particle interactions and formations, guided by the principles of Buddhist philosophy.
@@ -29,3 +30,6 @@ Dive into the "Skhandhas" experience [here](https://marlonbarrios.github.io/skha
 ## Concept, Programming, and Music
 Conceptualized and developed by Marlon Barrios Solano, "Skhandhas" is a testament to the intersection of digital art, programming, and spiritual philosophy, inviting users to reflect on the nature of existence and the illusion of self.
 
+![Screenshot 2024-04-06 at 2 26 28 PM](https://github.com/marlonbarrios/skhandhas/assets/90220317/5689f7b4-8b53-448c-a719-d5a7fc26983f)
+![Screenshot 2024-04-06 at 4 05 44 PM](https://github.com/marlonbarrios/skhandhas/assets/90220317/ece07363-4331-4beb-8b44-8c2dafdb3702)
+![Screenshot 2024-04-06 at 4 06 10 PM](https://github.com/marlonbarrios/skhandhas/assets/90220317/3bc7a673-6c2b-4f7f-9597-c1f348babf71)
