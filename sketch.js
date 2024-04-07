@@ -1,6 +1,6 @@
 let particles = [];
 let maxParticles = 1000; // Maximum number of particles
-let addParticleInterval = 50; // Interval to add new particles
+let addParticleInterval = 10; // Interval to add new particles
 let formationMode = false;
 let formationTarget = { x: null, y: null };
 let nextToggleFrame = 500; // Initial toggle after 500 frames
@@ -18,7 +18,7 @@ function setup() {
 }
 
 function draw() {
-  background(255); // Slightly transparent background
+  background(255, 10); // Slightly transparent background
  noCursor();
 
 
